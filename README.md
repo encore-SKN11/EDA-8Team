@@ -3,6 +3,7 @@
 ## 👋🏻 NOT(TEMU)조 팀원소개
 | 김정원 | 김한솔 | 백미송 |
 | --- | --- | --- |
+---
 
 ## 데이터셋 소개
   - **Melbourne Housing Snapshot**
