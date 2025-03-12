@@ -10,7 +10,7 @@
 - 머신러닝을 위한 데이터 변환
 ---
 
-### 데이터셋 소개
+### 🗂️데이터셋 소개
   - **Melbourne Housing Snapshot**
   - 출처: Kaggle (https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot/data)
 
