@@ -8,7 +8,7 @@
   - **Melbourne Housing Snapshot**
   - 출처: Kaggle (https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot/data)
 
-  - **변수에 대한 설명**
+**변수에 대한 설명**
   - Rooms: 방 개수
   - Price: 가격 (달러)
   - Method: 판매 방식
