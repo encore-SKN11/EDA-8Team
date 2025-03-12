@@ -3,7 +3,7 @@
 ## 👋🏻 8 Team 팀원소개
 | 김정원 | 김한솔 | 백미송 |
 | --- | --- | --- |
-| ![alt text](image/jw.jpg) | ![alt text](image/hs.png) | ![alt text](iamge/ms.png) |
+| ![alt text](image/jw.jpg) | ![alt text](image/hs.png) | ![alt text](image/ms.png) |
 ---
 ### **🔍 주요 내용**
 - 데이터 로드 및 전처리
