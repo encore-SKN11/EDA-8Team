@@ -82,4 +82,4 @@
 
 6. Appendix
 
-    <img src="image/folium.png" height="400">
+    <img src="image/folium.png" height="500">
