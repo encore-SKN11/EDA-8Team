@@ -79,3 +79,7 @@
    <img src="image/ord_enc.png">
    <img src="image/type_enc.png">
    <img src="image/heatmap.png" height="400">
+
+6. Appendix
+
+    <img src="image/folium.png" height="400">
