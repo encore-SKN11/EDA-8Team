@@ -67,6 +67,7 @@
 
    <img src="image/isna.png" height="400"><br>
    <img src="image/outlier_iqr.png"><br>
+   <img src="image/outlier_iqr_print.png" height="400"><br>
 
 4. 데이터 시각화를 통한 탐색
 
