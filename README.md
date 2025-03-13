@@ -78,6 +78,7 @@
    <img src="image/dropna.png"><br><br>
    <img src="image/ord_enc.png">
    <img src="image/type_enc.png">
+   <img src="image/df_v.png" height = "400"><br><br>
    <img src="image/heatmap.png" height="400">
 
 6. Appendix
