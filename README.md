@@ -11,7 +11,8 @@
 - 머신러닝을 위한 데이터 변환 
 ---
 ### 💡인사이트
-
+- 건물 크기가 방 개수, 욕실 개수에 큰 영향을 받는 점을 보아, 멜버른의 집값은 건물 크기에 가장 큰 영향을 받음
+- 그 외로는 주택 유형과 건물 연식과 상관관계를 볼 수 있음
 ---
 
 ### 🗂️데이터셋 소개
@@ -68,10 +69,13 @@
 
 4. 데이터 시각화를 통한 탐색
 
-   <img src="image/heatmap.png" height="400"><br>
+   <img src="image/heatmap_not_processed.png" height="400"><br>
+   <img src="image/price_to_rooms.png" height="400"><br>
+   <img src="image/price_to_car.png" height="400"><br>
 
 5. 데이터 정제 및 전처리
 
    <img src="image/dropna.png"><br><br>
    <img src="image/ord_enc.png">
    <img src="image/type_enc.png">
+   <img src="image/heatmap.png">
