@@ -66,6 +66,7 @@
 3. 결측치 및 이상치 탐색
 
    <img src="image/isna.png" height="400"><br>
+   <img src="image/outlier_iqr.png"><br>
 
 4. 데이터 시각화를 통한 탐색
 
