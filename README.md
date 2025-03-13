@@ -78,4 +78,4 @@
    <img src="image/dropna.png"><br><br>
    <img src="image/ord_enc.png">
    <img src="image/type_enc.png">
-   <img src="image/heatmap.png">
+   <img src="image/heatmap.png" height="400">
